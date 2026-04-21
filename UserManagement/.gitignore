@@ -1,0 +1,25 @@
+# Backend (Spring Boot)
+**/target/
+**/*.class
+**/application.properties   # if it contains passwords
+**/.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# Frontend (React)
+**/node_modules/
+**/dist/
+**/build/
+**/.env
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS junk
+Thumbs.db
+.DS_Store
